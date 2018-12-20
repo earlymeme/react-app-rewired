@@ -1,5 +1,5 @@
 {
-  "name": "react-app-rewired",
+  "name": "react-app-rewired-comp",
   "version": "2.0.0",
   "description": "Tweak the create-react-app webpack config(s) without using 'eject' and without creating a fork of the react-scripts",
   "private": false,
@@ -17,5 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/timarney/react-app-rewired"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "21dee4f5ba6b0e9347d58db5110f15d83353e224"
 }
