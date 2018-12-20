@@ -2,9 +2,9 @@
   "private": true,
   "scripts": {
     "postinstall": "lerna bootstrap",
-    "publish": "lerna publish && lerna-npm-readme-hack"
+    "publish": "lerna publish"
   },
   "devDependencies": {
-    "lerna": "2.0.0"
+    "lerna": "^3.7.1"
   }
 }
