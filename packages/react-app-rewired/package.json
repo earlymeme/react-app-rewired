@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timarney/react-app-rewired"
+    "url": "git+https://github.com/earlymeme/react-app-rewired"
   },
   "license": "MIT",
   "gitHead": "21dee4f5ba6b0e9347d58db5110f15d83353e224"
