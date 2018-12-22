@@ -3,15 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.2.0",
-    "react-app-rewired": "file:react-app-rewired-1.4.1.tgz",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0"
+    "react": "^16.7.0",
+    "react-app-rewired-comp": "file:react-app-rewired-comp-2.0.3.tgz",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-app-rewired start --config-overrides ./custom-overides"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-decorators": "7.2.3",
     "babel-plugin-transform-decorators-legacy": "^1.3.4"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
